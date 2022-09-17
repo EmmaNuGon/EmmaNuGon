@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 my name is Emmanuel Nuñez
 
 <!--
-**EmmaNuGon/EmmaNuGon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EmmaNuGon/EmmaNuGon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🌱 I’m currently learning React.JS
 - 👯 I like team work
